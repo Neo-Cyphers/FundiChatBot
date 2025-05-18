@@ -1,41 +1,41 @@
 # NEOChatBot
 
-🤖 AI Fundamentals Chatbot
+AI Fundamentals Chatbot
 An interactive AI educational chatbot designed to help users—especially beginners—understand the fundamentals of Artificial Intelligence.
 
 🌐 Click here to try the chatbot now
 
-📘 Overview
+# Overview
 This chatbot acts as a knowledge assistant for AI concepts. It delivers structured, beginner-friendly explanations and interactive conversation flows to guide users through key topics in artificial intelligence.
 
 Whether you're just curious about what AI really means or exploring terms like NLP and neural networks, this chatbot will walk you through it step by step—with visual aids, follow-up questions, and recommended learning paths.
 
-🎯 Features
-✅ Core AI Knowledge
+# Features
+• Core AI Knowledge
 
-Definitions of Machine Learning, Natural Language Processing, LLMs, Neural Networks, and Computer Vision
+• Definitions of Machine Learning, Natural Language Processing, LLMs, Neural Networks, and Computer Vision
 
-Differences between AI, Machine Learning, and Deep Learning
+• Differences between AI, Machine Learning, and Deep Learning
 
-Real-world AI applications across industries
+• Real-world AI applications across industries
 
-Key ethical concerns in AI (bias, transparency, fairness)
+• Key ethical concerns in AI (bias, transparency, fairness)
 
-✅ Interactive Learning
+• Interactive Learning
 
-Two guided conversation flows:
+# Two guided conversation flows:
 
-📚 Learn about NLP
+• Learn about NLP
 
-🧭 Explore AI Ethics
+• Explore AI Ethics
 
-Handles up to 3 follow-up questions per topic
+# Handles up to 3 follow-up questions per topic
 
-Offers visual aids and simple diagrams where relevant
+# Offers visual aids and simple diagrams where relevant
 
-Cross-links between related AI topics for deeper exploration
+# Cross-links between related AI topics for deeper exploration
 
-✅ Personalized Learning Path
+• Personalized Learning Path
 
 Suggests further learning modules based on the user's interest
 
