@@ -1,10 +1,9 @@
-# AI Fundamentals Chatbot
+# NEOCHATBOT
 
 An **interactive AI educational chatbot** designed to help users—especially beginners—understand the fundamentals of Artificial Intelligence.
 
 🌐 **[Click here to try the chatbot now](https://landbot.online/v3/H-2940004-ETNXFGXUQRF2NMW0/index.html)**
 
-* * *
 
 ## Overview
 
@@ -12,7 +11,6 @@ This chatbot acts as a **knowledge assistant** for AI concepts. It delivers stru
 
 Whether you're just curious about what AI really means or exploring terms like NLP and neural networks, this chatbot will walk you through it step by step—with visual aids, follow-up questions, and recommended learning paths.
 
-* * *
 
 ## Features
 
@@ -42,14 +40,12 @@ Whether you're just curious about what AI really means or exploring terms like N
 
 - Prompts user to rate or respond to explanations: "Was this helpful?"
 
-* * *
 
 ## Access the Chatbot
 
 **[Launch the AI Fundamentals Chatbot](https://landbot.online/v3/H-2940004-ETNXFGXUQRF2NMW0/index.html)**  
 *(No signup required — runs in-browser)*
 
-* * *
 
 ## Technologies Used
 
@@ -57,7 +53,6 @@ Whether you're just curious about what AI really means or exploring terms like N
 - **Markdown & HTML** for simple visual rendering
 - **Structured Q&A logic** with conditional branching
 
-* * *
 
 ## Limitations
 
